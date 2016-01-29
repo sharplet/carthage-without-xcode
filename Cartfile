@@ -1,0 +1,2 @@
+github "ruby/ruby" "v2_3_0"
+github "git/git" ~> 2.4

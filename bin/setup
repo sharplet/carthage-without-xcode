@@ -1,0 +1,7 @@
+#!/bin/sh
+#
+# Download dependencies.
+
+set -e
+
+carthage bootstrap --no-build --no-use-binaries
